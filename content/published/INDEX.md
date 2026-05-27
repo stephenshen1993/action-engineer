@@ -16,6 +16,7 @@
 | 2026-05-23 | 后来我才发现，人真的会被“惯性”困住 | 已发布 | 行动工程 | [2026-05-23-trapped-by-inertia.md](2026-05-23-trapped-by-inertia.md) |
 | 2026-05-24 | 我发现，我以前最大的问题不是不努力，而是太想“正确”了 | 已发布 | 行动工程 | [2026-05-24-too-eager-to-be-correct.md](2026-05-24-too-eager-to-be-correct.md) |
 | 2026-05-25 | 我发现，AI最可怕的地方，是它开始接管我的“第一反应” | 已发布 | 行动工程 | [2026-05-25-ai-first-reaction.md](2026-05-25-ai-first-reaction.md) |
+| 2026-05-26 | 很多时候，我其实不是在做事 | 已发布 | 行动工程 | [2026-05-26-designing-work-instead-of-doing.md](2026-05-26-designing-work-instead-of-doing.md) |
 
 ## 维护方式
 
