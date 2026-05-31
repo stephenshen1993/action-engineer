@@ -71,3 +71,15 @@
 - 为 `content/ideas/` 增加最小灵感记录说明
 
 这次整理的目标不是继续扩展系统，而是让每个文件只有一个明确职责。
+
+随后继续收口了文档内容：
+
+- `README.md` 只保留项目首页和导航
+- `CHATGPT_CONTEXT.md` 只负责告诉本地 AI 按任务读取哪些文件
+- `CURRENT_STATUS.md` 只记录动态状态，不重复日常工作流细节
+- `workflow/writing_guide.md` 只保留表达风格，不重复 Review 流程
+- `CHATGPT_PROJECT_BRIEF.md` 保留独立完整，方便直接上传到 ChatGPT Project
+
+到这里停止继续整理。
+
+接下来直接开始 7 天试运行。
