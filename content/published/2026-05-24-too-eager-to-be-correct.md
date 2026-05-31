@@ -11,7 +11,7 @@ tags:
   - 自我观察
 core_idea: "很多事情不存在完全正确的开始方式，答案是在行动里慢慢长出来的。"
 next_direction: "继续记录从过度准备到持续行动的真实变化。"
-source_url: ""
+source_url: "https://www.douyin.com/article/7643506744991190323"
 body_status: "已补充：来自本地已发布文章材料"
 source_material_dir: "/Users/Admin/Documents/persinal/行动工程师/内容素材/已发布文章/20260524-我发现，我以前最大的问题不是不努力，而是太想“正确”了"
 assets_status: "已导入项目内"

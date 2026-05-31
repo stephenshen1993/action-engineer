@@ -12,7 +12,7 @@ core_idea: "AI时代最大的陷阱是“永远在准备”，重要的是先进
 next_direction: "AI副业尝试，非工资收入探索"
 source_url: "https://www.douyin.com/article/7640506346361638190"
 body_status: "已补充：来自本地已发布文章材料"
-source_material_dir: "/Users/Admin/Documents/persinal/行动工程师/内容素材/已发布文章/20260516-我发现程序员最大的危险，不是AI，而是"永远在准备""
+source_material_dir: '/Users/Admin/Documents/persinal/行动工程师/内容素材/已发布文章/20260516-我发现程序员最大的危险，不是AI，而是"永远在准备"'
 assets_status: "无配套图片"
 ---
 
