@@ -33,7 +33,7 @@
 - ChatGPT Project 精简上下文包：`CHATGPT_PROJECT_BRIEF.md`
 - 新文章启动模板：`workflow/templates/article_creation_card.md`
 - 发布前单次 Review：`workflow/article_review_prompt.md`
-- 内容归档流程：`workflow/action_engineer_current_workflow_v_1.md`
+- 日常创作与归档流程：`workflow/README.md`
 - 待办与候选方向：`TODO.md`
 - 项目演化记录：`logs/project_log.md`
 - 文章归档模板：`workflow/templates/published_article_template.md`
@@ -120,7 +120,7 @@
 | 写文章、改文章、Review | 额外读取 `workflow/writing_guide.md` |
 | 开始一篇新文章 | 使用 `workflow/templates/article_creation_card.md` |
 | 回顾已发布内容、避免选题重复 | 额外读取 `content/published/INDEX.md` |
-| 归档新文章 | 额外读取工作流和归档模板 |
+| 归档新文章 | 额外读取 `workflow/README.md` 和归档模板 |
 
 原则：
 

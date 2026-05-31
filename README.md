@@ -22,6 +22,7 @@
 - AI 协作者启动入口：[CHATGPT_CONTEXT.md](CHATGPT_CONTEXT.md)
 - ChatGPT Project 精简上下文包：[CHATGPT_PROJECT_BRIEF.md](CHATGPT_PROJECT_BRIEF.md)
 - 当前唯一动态状态：[CURRENT_STATUS.md](CURRENT_STATUS.md)
+- 日常工作流：[workflow/README.md](workflow/README.md)
 - 单篇创作卡：[workflow/templates/article_creation_card.md](workflow/templates/article_creation_card.md)
 - 发布前单次 Review：[workflow/article_review_prompt.md](workflow/article_review_prompt.md)
 
@@ -92,7 +93,12 @@ content/published/
 content/assets/published/
   2026-05-xx-*/                    # 对应文章的封面、头图、插图
 
+content/ideas/
+  README.md                        # 灵感记录说明
+  2026-05-xx-*.md                  # 尚未进入创作阶段的真实现场
+
 workflow/
+  README.md                        # 日常创作与归档流程
   writing_guide.md                 # 写作规则统一入口
   article_review_prompt.md         # 发布前单次阻塞项 Review
   templates/                       # 创作卡和归档模板
