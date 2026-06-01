@@ -1,10 +1,8 @@
 # 行动工程师（Action Engineer）
 
-这是一个长期内容项目：
+这是 Action Engineer 项目的入口。
 
-记录一名传统工程师在 AI 时代，如何从“长期准备、追求正确、出售时间”，逐渐走向“真实行动、AI 协作、构建长期资产”。
-
-它不是 AI 教程、流量教学或成功学。
+项目定位见：`PROJECT_CONTEXT.md`。
 
 ## 从哪里开始
 
@@ -12,10 +10,22 @@
 | --- | --- |
 | 了解项目定位 | [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) |
 | 查看当前阶段和下一步 | [CURRENT_STATUS.md](CURRENT_STATUS.md) |
-| 让新的 AI 协作者快速接手 | [CHATGPT_CONTEXT.md](CHATGPT_CONTEXT.md) |
-| 给 ChatGPT Project 上传上下文 | [CHATGPT_PROJECT_BRIEF.md](CHATGPT_PROJECT_BRIEF.md) |
-| 开始今天的创作 | [workflow/README.md](workflow/README.md) |
+| 开始创作或让 ChatGPT 接手 | [workflow/CREATION_GUIDE.md](workflow/CREATION_GUIDE.md) |
+| 制作封面、头图或插图 | [workflow/VISUAL_GUIDE.md](workflow/VISUAL_GUIDE.md) |
 | 回看已发布内容 | [content/published/INDEX.md](content/published/INDEX.md) |
+| 查看项目演化记录 | [logs/project_log.md](logs/project_log.md) |
+
+## 给 ChatGPT 的上下文
+
+创作时直接提供源文件，不单独维护 ChatGPT 专属副本：
+
+1. `PROJECT_CONTEXT.md`
+2. `CURRENT_STATUS.md`
+3. `workflow/CREATION_GUIDE.md`
+
+需要回顾历史内容或避免重复时，再补充：
+
+4. `content/published/INDEX.md`
 
 ## 仓库结构
 
@@ -26,10 +36,8 @@ content/
   assets/published/       # 已发布文章使用的图片
 
 workflow/
-  README.md               # 日常创作与归档流程
-  writing_guide.md        # 表达风格统一入口
-  article_review_prompt.md
-  content-rules/
+  CREATION_GUIDE.md       # 创作协作、表达规则、Review 和停止条件
+  VISUAL_GUIDE.md         # 封面、头图和插图规则
   templates/
 
 logs/
@@ -41,4 +49,5 @@ logs/
 1. 稳定背景只更新 `PROJECT_CONTEXT.md`。
 2. 动态状态只更新 `CURRENT_STATUS.md`。
 3. 已发布内容只归档到 `content/published/` 和 `content/assets/published/`。
-4. 当前阶段优先持续发布，不扩展复杂工作流。
+4. 创作规则只更新 `workflow/CREATION_GUIDE.md`。
+5. 当前阶段优先持续发布，不扩展复杂工作流。
