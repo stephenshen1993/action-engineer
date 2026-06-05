@@ -20,10 +20,6 @@ assets_status: "已导入项目内"
 assets_dir: "content/assets/published/2026-05-30-answers-not-in-software"
 cover_image: "content/assets/published/2026-05-30-answers-not-in-software/cover.png"
 header_image: "content/assets/published/2026-05-30-answers-not-in-software/header.png"
-image_files:
-  - "content/assets/published/2026-05-30-answers-not-in-software/cover-v1.png"
-  - "content/assets/published/2026-05-30-answers-not-in-software/cover-v2.png"
-  - "content/assets/published/2026-05-30-answers-not-in-software/header-v1.png"
 ---
 
 # 查了一整天故障，最后发现真相根本不在软件里

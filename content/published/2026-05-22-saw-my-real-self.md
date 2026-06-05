@@ -17,7 +17,6 @@ assets_status: "已导入项目内"
 assets_dir: "content/assets/published/2026-05-22-saw-my-real-self"
 cover_image: "content/assets/published/2026-05-22-saw-my-real-self/cover.png"
 header_image: "content/assets/published/2026-05-22-saw-my-real-self/header.png"
-original_cover_image: "content/assets/published/2026-05-22-saw-my-real-self/cover-original.png"
 ---
 
 # 那天，我无意间看见了真正的自己

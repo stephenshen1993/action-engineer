@@ -19,8 +19,6 @@ assets_status: "已导入项目内"
 assets_dir: "content/assets/published/2026-05-28-two-weeks-on-one-question"
 cover_image: "content/assets/published/2026-05-28-two-weeks-on-one-question/cover.png"
 header_image: "content/assets/published/2026-05-28-two-weeks-on-one-question/header.png"
-image_files:
-  - "content/assets/published/2026-05-28-two-weeks-on-one-question/cover-alt.png"
 ---
 
 # 老板一句话，我研究了快两周
