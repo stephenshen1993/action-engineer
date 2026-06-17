@@ -24,9 +24,13 @@
 2. `CURRENT_STATUS.md`
 3. `workflow/CREATION_GUIDE.md`
 
-需要回顾历史内容或避免重复时，再补充：
+需要回顾历史内容、避免重复或制作视觉素材时，再按需补充：
 
 4. `content/published/INDEX.md`
+5. `workflow/VISUAL_GUIDE.md`
+6. `workflow/LESSONS_LEARNED.md`
+
+日常创作不要默认全文塞入所有文档，优先控制上下文负担。
 
 ## 仓库结构
 

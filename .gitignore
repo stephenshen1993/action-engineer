@@ -1,6 +1,8 @@
 .DS_Store
+**/.DS_Store
 .idea/
 .vscode/
+.claude/
 node_modules/
 .env
 .serena/
