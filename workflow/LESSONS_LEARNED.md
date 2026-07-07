@@ -6,6 +6,10 @@
 
 日常创作优先看 `workflow/CREATION_GUIDE.md`；只有在遇到具体问题时，再回到本文查找相近经验。
 
+本文承接“从单篇创作中提炼出的长期经验”。
+
+项目阶段记录放入 `logs/project_log.md`，当前状态放入 `CURRENT_STATUS.md`。
+
 高频回查方向：
 
 - 选题是否停在第一层现象
